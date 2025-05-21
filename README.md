@@ -1,5 +1,6 @@
 # 💰 KakeboApp - Controle Financeiro Inteligente
 
+[🇺🇸 English Version](README.en.md)
 
 ## 📋 Sobre o Projeto
 
@@ -32,6 +33,7 @@ O **KakeboApp** é uma aplicação web que ajuda você a organizar sua vida fina
 
 ## 📁 Estrutura do Projeto
 
+```
 kakebo-app/
 ├── backend/
 │ ├── src/
@@ -41,6 +43,8 @@ kakebo-app/
 │ ├── src/app/
 │ └── angular.json
 └── README.md
+
+```
 
 ---
 
