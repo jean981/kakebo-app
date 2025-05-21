@@ -6,6 +6,8 @@
 
 O **KakeboApp** é uma aplicação web que ajuda você a organizar sua vida financeira com base no método japonês *Kakebo*. A ideia é manter o controle de receitas, despesas, metas e visualizar tudo de forma simples e clara!
 
+## [✅ Lista de Requisitos](atributos.md)
+
 ---
 
 ## 🚀 Funcionalidades
