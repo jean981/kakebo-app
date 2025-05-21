@@ -1,6 +1,6 @@
 # 💰 KakeboApp - Controle Financeiro Inteligente
 
-[🇧🇷 Versão em Português](README.en.md)
+[🇺🇸 English Version](README.en.md)
 
 ## 📋 Sobre o Projeto
 
