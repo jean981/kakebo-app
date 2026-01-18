@@ -4,8 +4,8 @@
 |:-------------: | :------------- | :------------- |
 | RF01  | [User Registration](diagrams/userSchema_RF01_CRUD_endpoint.md) | Allow new users to create an account with name, email and password. |
 | RF02  | [Login and Authentication](diagrams/login_RF02_endpoint.md)  | Authenticate users using email and password via JWT. |
-| RF03  | [Income Registration](diagrams/receita_RF03_CRUD_endpoint.md)  | Record income with date, amount, category and description.  |
-| RF04  | [Expense Registration](diagrams/despesa_RF04_CRUD_endpoint.md) | Record expenses with date, amount, category and description.  |
+| RF03  | [Income Registration](diagrams/incomeSchema_RF03_CRUD_endpoint.md)  | Record income with date, amount, category and description.  |
+| RF04  | [Expense Registration](diagrams/expenseSchema_RF04_CRUD_endpoint.md) | Record expenses with date, amount, category and description.  |
 | RF05  | [Custom Categories](diagrams/categorias_RF05_endpoint.md) | Allow user-customized income/expense categories.  |
 | RF06  | [Monthly Financial Goals](diagrams/metas_RF06_endpoint.md) | Allow setting and editing monthly savings goals.  |
 | RF07  | [Period Reports](diagrams/relatorios_RF07_endpoint.md) | Generate monthly/annual reports with income, expenses and balance.  |
