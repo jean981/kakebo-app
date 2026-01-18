@@ -4,8 +4,8 @@
 |:-------------: | :------------- | :------------- |
 | RF01  | [Cadastro de Usuário](diagrams/userSchema_RF01_CRUD_endpoint.md) | Permitir que novos usuários criem uma conta com nome, email e senha. |
 | RF02  | [Login e Autenticação](diagrams/login_RF02_endpoint.md) | Autenticar usuários usando email e senha via JWT. |
-| RF03  | [Cadastro de Receita](diagrams/receita_RF03_CRUD_endpoint.md) | Registrar receitas com data, valor, categoria e descrição. |
-| RF04  | [Cadastro de Despesa](diagrams/despesa_RF04_CRUD_endpoint.md) | Registrar despesas com data, valor, categoria e descrição. |
+| RF03  | [Cadastro de Receita](diagrams/incomeSchema_RF03_CRUD_endpoint.md) | Registrar receitas com data, valor, categoria e descrição. |
+| RF04  | [Cadastro de Despesa](diagrams/expenseSchema_RF04_CRUD_endpoint.md) | Registrar despesas com data, valor, categoria e descrição. |
 | RF05  | [Categorias Personalizadas](diagrams/categorias_RF05_endpoint.md) | Permitir categorias de receitas/despesas customizadas por usuário. |
 | RF06  | [Metas Financeiras Mensais](diagrams/metas_RF06_endpoint.md) | Permitir definir e editar metas mensais de economia. |
 | RF07  | [Relatórios por Período](diagrams/relatorios_RF07_endpoint.md) | Gerar relatórios mensais/anuais com receitas, despesas e saldo. |
