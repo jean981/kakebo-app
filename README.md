@@ -73,14 +73,22 @@ kakebo-app/
   </a>
 </p>
 <p align="center">
-** Happy coding! ** 😄
+Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo.
 </p>
 
 ---
 
-## Licenças:
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/agpl-v3)
+## 📜 Licenças: [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/agpl-v3)
 
+Este projeto está licenciado sob os termos da Licença GPLv3.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,htmx&theme=dark" />
+  </a>
+</p>
+<p align="center">
+✨ **Happy coding!** 😄
+</p
 
 
