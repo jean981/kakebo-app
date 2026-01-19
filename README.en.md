@@ -51,10 +51,25 @@ kakebo-app/
 ---
 
 ## 📞 Contact
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,discord,instagram,twitter&theme=dark" />
+  <a href="https://www.linkedin.com/in/jean-pereira-de-sa-80b31448/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+
+  <a href="mailto:jeanpdesa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+
+  <a href="https://discord.com/users/jean981_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+
+  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+
+  <a href="https://x.com/jeanpdesa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
 </p>
 
