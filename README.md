@@ -52,13 +52,35 @@ kakebo-app/
 
 ## 📞 Contato
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,discord,instagram,tweeter&theme=dark" />
+  <a href="https://www.linkedin.com/in/jean-pereira-de-sa-80b31448/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+
+  <a href="mailto:jeanpdesa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+
+  <a href="https://discord.com/users/jean981_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+
+  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+
+  <a href="https://x.com/jeanpdesa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
 </p>
 <p align="center">
-Caso você tenha alguma dúvida ou sugestão, sinta-se à vontade para  entrar em contato comigo via.
+Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo.
 </p>
+
+---
+
+## 📜 Licenças: [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/agpl-v3)
+
+Este projeto está licenciado sob os termos da Licença GPLv3.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,14 +88,7 @@ Caso você tenha alguma dúvida ou sugestão, sinta-se à vontade para  entrar e
   </a>
 </p>
 <p align="center">
-** Happy coding! ** 😄
-</p>
-
----
-
-## Licenças:
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/agpl-v3)
-
-
+✨ **Happy coding!** 😄
+</p
 
 
