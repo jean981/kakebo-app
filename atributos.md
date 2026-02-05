@@ -14,6 +14,7 @@
 | RF10  | [Dashboard Responsivo](diagrams/dashboard_RF10_endpoint.md) | Exibir resumo financeiro em dashboard adaptado a dispositivos móveis. |
 | RF11  | [Multiusuário](diagrams/multiusuario_RF11_endpoint.md) | Cada usuário só pode acessar seus próprios dados. |
 | RF12  | [Logout](diagrams/logout_RF12_endpoint.md) | Encerrar sessão de forma segura. |
+| RF13  | [Parser](diagrams/parserSchema_RF13_endpoint.md)|Importação de Dados via CSV (Parser → Banco de Dados) |
 
 
 ----------
