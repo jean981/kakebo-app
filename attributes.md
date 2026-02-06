@@ -14,6 +14,7 @@
 | RF10  | [Responsive Dashboard](diagrams/dashboard_RF10_endpoint.md) | Display financial summary in a mobile-adapted dashboard. |
 | RF11  | [Multi-user](diagrams/multiusuario_RF11_endpoint.md) | Each user can only access their own data.  |
 | RF12  | [Logout](diagrams/logout_RF12_endpoint.md) | Securely end the session.  |
+| RF12  | [Parser](diagrams/parserSchema_RF13_us_endpoint.md) | Endpoint import financial data .CSV  |
 
 ##  📐  Associated Business Rules
 
