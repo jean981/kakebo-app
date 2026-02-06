@@ -15,7 +15,7 @@
 | RF11  | [Multi-user](diagrams/multiusuario_RF11_endpoint.md) | Each user can only access their own data.  |
 | RF12  | [Logout](diagrams/logout_RF12_endpoint.md) | Securely end the session.  |
 | RF13  | [Parser](diagrams/parserSchema_RF13_us_endpoint.md) | Endpoint import financial data .CSV  |
-| RF14  | [Visualizing Financial Data](diagrams/visualizacaoThymeleaf_RF14.md)|Web interface with filters, pagination, and visualization of financial data. |
+| RF14  | [Visualizing Financial Data](diagrams/dataVisualizationThymeleaf.md)|Web interface with filters, pagination, and visualization of financial data. |
 
 ##  📐  Associated Business Rules
 
