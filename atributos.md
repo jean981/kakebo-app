@@ -15,6 +15,7 @@
 | RF11  | [Multiusuário](diagrams/multiusuario_RF11_endpoint.md) | Cada usuário só pode acessar seus próprios dados. |
 | RF12  | [Logout](diagrams/logout_RF12_endpoint.md) | Encerrar sessão de forma segura. |
 | RF13  | [Parser](diagrams/parserSchema_RF13_endpoint.md)|Importação de Dados via CSV (Parser → Banco de Dados) |
+| RF14  | [Visualização de Dados Financeiros](diagrams/visualizacaoThymeleaf_RF14.md)|Interface web com filtros, paginação e visualização dos dados financeiros. |
 
 
 ----------
@@ -24,6 +25,6 @@
 | Status  | Regra |
 | :-------------: | :------------- | 
 | :white_check_mark:  | O saldo mensal será calculado como: saldo = receitas - despesas  |
-| [	]  | Despesas não podem ter valor negativo.  |
+| :white_check_mark:  | Despesas não podem ter valor negativo.  |
 | [	]  | Categorias essenciais não podem ser removidas, apenas ocultadas.  |
 | [	]  | Relatórios exportados devem conter nome do usuário, mês/ano e saldo total.  |
