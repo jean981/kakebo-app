@@ -14,13 +14,14 @@
 | RF10  | [Responsive Dashboard](diagrams/dashboard_RF10_endpoint.md) | Display financial summary in a mobile-adapted dashboard. |
 | RF11  | [Multi-user](diagrams/multiusuario_RF11_endpoint.md) | Each user can only access their own data.  |
 | RF12  | [Logout](diagrams/logout_RF12_endpoint.md) | Securely end the session.  |
-| RF12  | [Parser](diagrams/parserSchema_RF13_us_endpoint.md) | Endpoint import financial data .CSV  |
+| RF13  | [Parser](diagrams/parserSchema_RF13_us_endpoint.md) | Endpoint import financial data .CSV  |
+| RF14  | [Visualizing Financial Data](diagrams/visualizacaoThymeleaf_RF14.md)|Web interface with filters, pagination, and visualization of financial data. |
 
 ##  📐  Associated Business Rules
 
 | Status  | Rule |
 | :-------------: | :------------- | 
 | :white_check_mark:  | Monthly balance will be calculated as: balance = income - expenses |
-| [	]  | Expenses cannot have negative values.  |
+| :white_check_mark:  | Expenses cannot have negative values.  |
 | [	]  | Essential categories cannot be deleted, only hidden.  |
 | [	]  | Exported reports must contain user name, month/year and total balance.  |
